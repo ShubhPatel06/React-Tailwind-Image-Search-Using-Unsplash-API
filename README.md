@@ -11,10 +11,3 @@ This is a basic image search application developed using React and Tailwind CSS.
 ![Alt text](image-2.png)
 
 ![Alt text](image-3.png)
-
-git init
-git add .
-git commit -m "Initial Commit"
-git branch -M main
-git remote add origin https://github.com/ShubhPatel06/React-Tailwind-Image-Search-Using-Unsplash-API.git
-git push -u origin main
